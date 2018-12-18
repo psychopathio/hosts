@@ -1,3 +1,5 @@
+##This is a combination of my collection & others, will update when needed.
+##updated 18/12/2018 22:16
 
 # adobe
 127.0.0.1 activate.adobe.com
@@ -24,7 +26,7 @@
 127.0.0.1 practivate.adobe.com
 127.0.0.1 activate.adobe.com
 
-## IOBIT
+# iobit
 127.0.0.1 idb.iobit.com
 127.0.0.1 asc55.iobit.com
 127.0.0.1 is360.iobit.com
@@ -33,11 +35,11 @@
 127.0.0.1 iunins.iobit.com
 127.0.0.1 sd.iobit.com
 
-## CCLeaner
+# ccleaner
 127.0.0.1 license.piriform.com
 
 
-## Windows Telemetry
+# windows telemetry
 127.0.0.1 a-0001.a-msedge.net
 127.0.0.1 choice.microsoft.com
 127.0.0.1 choice.microsoft.com.nstac.net
