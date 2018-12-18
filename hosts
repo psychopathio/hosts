@@ -1,6 +1,17 @@
 ##This is a combination of my collection & others, will update when needed.
 ##updated 18/12/2018 22:16
 
+# malewarebytes
+127.0.0.1 keystone.mwbsys.com
+127.0.0.1 keystone-prod.elasticbeanstalk.com
+
+# tune-up
+127.0.0.1 secure.tune-up.com
+127.0.0.1 order.tune-up.com
+127.0.0.1 tune-up.com
+127.0.0.1 registertuneup.com
+127.0.0.1 tuneup.de
+
 # adobe
 127.0.0.1 activate.adobe.com
 127.0.0.1 practivate.adobe.com
