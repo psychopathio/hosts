@@ -564,3 +564,6 @@
 127.0.0.1 wes.df.telemetry.microsoft.com 
 127.0.0.1 win10.ipv6.microsoft.com 
 127.0.0.1 win1710.ipv6.microsoft.com 
+# Cyberlink
+127.0.0.1 cap.cyberlink.com
+127.0.0.1 activation.cyberlink.com
