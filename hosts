@@ -1,6 +1,10 @@
 # This is a combination of my collection & others, will update when needed.
 # updated 27/12/2018 14:00
 
+# avast
+127.0.0.1 www.avast.com
+127.0.0.1 www.ns2.avast.com
+127.0.0.1 www.pns.avast.com
 
 # adobe
 127.0.0.1 activate.adobe.com
