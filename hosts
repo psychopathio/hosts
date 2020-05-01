@@ -1,18 +1,13 @@
 # This is a combination of my collection & others, will update as needed.
 # updated 22/7/2019 07:15
-
 ## wondershare
-
 0.0.0.0 cbs.wondershare.com
 0.0.0.0 www.cbs.wondershare.com
 0.0.0.0 platform.wondershare.com
 0.0.0.0 www.wondershare.com
-
 ## jetbrains
-
 0.0.0.0 account.jetbrains.com
 ## avast
-
 0.0.0.0 www.avast.com
 0.0.0.0 www.ns2.avast.com
 0.0.0.0 www.pns.avast.com
@@ -20,9 +15,7 @@
 0.0.0.0 46.4.58.71
 0.0.0.0 46.4.62.150
 0.0.0.0 46.4.28.80
-
 ## adobe
-
 0.0.0.0 activate.wip4.adobe.com
 0.0.0.0 adobeereg.com
 0.0.0.0 ereg.wip4.adobe.com
@@ -49,13 +42,10 @@
 0.0.0.0 hlrcv.stage.adobe.com
 0.0.0.0 practivate.adobe.com
 0.0.0.0 activate.adobe.com
-
 ## Cyberlink
-
 0.0.0.0 cap.cyberlink.com
 0.0.0.0 activation.cyberlink.com
 ## iobit
-
 0.0.0.0 idb.iobit.com
 0.0.0.0 asc55.iobit.com
 0.0.0.0 is360.iobit.com
@@ -64,5 +54,4 @@
 0.0.0.0 iunins.iobit.com
 0.0.0.0 sd.iobit.com
 ## ccleaner
-
 0.0.0.0 license.piriform.com
