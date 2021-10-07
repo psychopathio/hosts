@@ -1,5 +1,22 @@
 ## updated 30/7/2021
 
+
+## Laminar AI
+127.0.0.1 auth.macphun.com
+0.0.0.0 luminar3win.update.skylum.com
+0.0.0.0 luminar3.s3-accelerate.amazonaws.com
+0.0.0.0 luminar4win.update.skylum.com
+0.0.0.0 luminar4.s3-accelerate.amazonaws.com
+0.0.0.0 stats-api.skylum.com
+0.0.0.0 geotargetly-1a441.appspot.com
+0.0.0.0 fx.macphun.com
+0.0.0.0 canonicalizer.ucsuri.tcs
+0.0.0.0 auth.macphun.com
+0.0.0.0 stats-api.skylum.com
+0.0.0.0 api.photolemur.com
+0.0.0.0 media.macphun.com
+0.0.0.0 luminaraiwin.skylum.com
+
 ##IObit
 0.0.0.0 asc55.iobit.com
 
