@@ -1,5 +1,13 @@
 ## updated 4/3/2022
 
+## Kerio Connect
+0.0.0.0 gogs.dontexist.com
+0.0.0.0 register.kerio.com
+0.0.0.0 update.kerio.com
+0.0.0.0 control-update.kerio.com
+0.0.0.0 sophos-update.kerio.com
+0.0.0.0 snort-update.kerio.com
+
 ## Replay Media Catcher
 0.0.0.0 secure.applian.com
 
