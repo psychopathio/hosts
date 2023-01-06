@@ -8,10 +8,6 @@
 0.0.0.0 sophos-update.kerio.com
 0.0.0.0 snort-update.kerio.com
 
-## Replay Media Catcher
-0.0.0.0 secure.applian.com
-
-
 ## Cyberlink
 0.0.0.0 cap.cyberlink.com
 0.0.0.0 activation.cyberlink.com
