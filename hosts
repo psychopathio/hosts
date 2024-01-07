@@ -323,6 +323,19 @@
 0.0.0.0 use-stls.adobe.com.edgesuite.net
 0.0.0.0 9ngulmtgqi.adobe.io
 
+## CCleaner
+127.0.0.1 license.piriform.com
+127.0.0.1 www.license.piriform.com
+127.0.0.1 speccy.piriform.com
+127.0.0.1 www.speccy.piriform.com
+127.0.0.1 recuva.piriform.com
+127.0.0.1 www.recuva.piriform.com
+127.0.0.1 defraggler.piriform.com
+127.0.0.1 www.defraggler.piriform.com
+127.0.0.1 ccleaner.piriform.com
+127.0.0.1 www.ccleaner.piriform.com
+127.0.0.1 license-api.ccleaner.com
+
 ## Kerio Connect
 0.0.0.0 gogs.dontexist.com
 0.0.0.0 register.kerio.com
