@@ -1,8 +1,9 @@
 ## updated 14/9/2023
 
-##Mdaemon
-0.0.0.0 services.altn.com
-0.0.0.0 services.mdaemon.com
+## Avast
+0.0.0.0 www.avast.com
+0.0.0.0 www.ns2.avast.com
+0.0.0.0 www.pns.avast.com
 
 ## ADOBE
 0.0.0.0 0bj2epfqn1.adobestats.io
