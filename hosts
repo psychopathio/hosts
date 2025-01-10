@@ -553,17 +553,17 @@
 0.0.0.0 zz8r2o83on.adobestats.io
 
 ## CCleaner
-127.0.0.1 license.piriform.com
-127.0.0.1 www.license.piriform.com
-127.0.0.1 speccy.piriform.com
-127.0.0.1 www.speccy.piriform.com
-127.0.0.1 recuva.piriform.com
-127.0.0.1 www.recuva.piriform.com
-127.0.0.1 defraggler.piriform.com
-127.0.0.1 www.defraggler.piriform.com
-127.0.0.1 ccleaner.piriform.com
-127.0.0.1 www.ccleaner.piriform.com
-127.0.0.1 license-api.ccleaner.com
+0.0.0.0 license.piriform.com
+0.0.0.0 www.license.piriform.com
+0.0.0.0 speccy.piriform.com
+0.0.0.0 www.speccy.piriform.com
+0.0.0.0 recuva.piriform.com
+0.0.0.0 www.recuva.piriform.com
+0.0.0.0 defraggler.piriform.com
+0.0.0.0 www.defraggler.piriform.com
+0.0.0.0 ccleaner.piriform.com
+0.0.0.0 www.ccleaner.piriform.com
+0.0.0.0 license-api.ccleaner.com
 
 ## Kerio Connect
 0.0.0.0 gogs.dontexist.com
@@ -623,15 +623,6 @@
 0.0.0.0 account.acronis.com
 0.0.0.0 gateway.acronis.com
 
-## CoralDraw
-0.0.0.0 mc.corel.com
-0.0.0.0 apps.corel.com
-0.0.0.0 origin-mc.corel.com
-0.0.0.0 iws.corel.com
-0.0.0.0 compute-1.amazonaws.com
-0.0.0.0 ipm.corel.com
-0.0.0.0 dev1.ipm.corel.public.corel.ne
-
 ## wondershare
 0.0.0.0	wondershare.net
 0.0.0.0	www.wondershare.net
@@ -679,6 +670,3 @@
 0.0.0.0	wae.wondershare.cc.w.cdngslb.com
 0.0.0.0	account.wondershare.com
 0.0.0.0	accounts.wondershare.com
-
-## jetbrains
-0.0.0.0 account.jetbrains.com
