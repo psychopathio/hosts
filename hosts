@@ -1,9 +1,10 @@
 ## updated 14/9/2023
 
-## Avast
-0.0.0.0 www.avast.com
-0.0.0.0 www.ns2.avast.com
-0.0.0.0 www.pns.avast.com
+# Avast Premium Security
+127.0.0.1 alpha-license-dealer.ff.avast.com
+127.0.0.1 alpha-rollout-service.ff.avast.com
+127.0.0.1 my-win.avast.com
+127.0.0.1 analytics.ff.avast.com
 
 ## ADOBE
 0.0.0.0 0bj2epfqn1.adobestats.io
