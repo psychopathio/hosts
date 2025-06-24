@@ -1,10 +1,10 @@
 ## updated 18/03/2025
 
 # Avast Premium Security
-127.0.0.1 alpha-license-dealer.ff.avast.com
-127.0.0.1 alpha-rollout-service.ff.avast.com
-127.0.0.1 my-win.avast.com
-127.0.0.1 analytics.ff.avast.com
+0.0.0.0 alpha-license-dealer.ff.avast.com
+0.0.0.0 alpha-rollout-service.ff.avast.com
+0.0.0.0 my-win.avast.com
+0.0.0.0 analytics.ff.avast.com
 
 ## CCleaner
 0.0.0.0 license.piriform.com
