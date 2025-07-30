@@ -1,6 +1,21 @@
-## updated 25/06/2025
+## updated 30/07/2025
 
-# Avast Premium Security
+## CorelDRAW
+0.0.0.0 apps.corel.com 
+0.0.0.0 mc.corel.com 
+0.0.0.0 origin-mc.corel.com 
+0.0.0.0 iws.corel.com 
+0.0.0.0 ipm.corel.com
+0.0.0.0 2.18.12.147
+0.0.0.0 googletagmanager.com
+0.0.0.0 corelstore.com
+0.0.0.0 www.corelstore.com
+0.0.0.0 deploy.akamaitechnologies.com 
+0.0.0.0 compute-1.amazonaws.com
+0.0.0.0 dev1.ipm.corel.public.corel.net
+0.0.0.0 ipp.corel.com
+
+## Avast Premium Security
 0.0.0.0 alpha-license-dealer.ff.avast.com
 0.0.0.0 alpha-rollout-service.ff.avast.com
 0.0.0.0 my-win.avast.com
