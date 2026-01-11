@@ -1,4 +1,4 @@
-## updated 04/08/2025
+## updated 11/01/2026
 
 ## CorelDRAW
 0.0.0.0 apps.corel.com 
@@ -20,6 +20,10 @@
 0.0.0.0 alpha-rollout-service.ff.avast.com
 0.0.0.0 my-win.avast.com
 0.0.0.0 analytics.ff.avast.com
+0.0.0.0 shepherd.ff.avast.com
+0.0.0.0 ipm-provider.ff.avast.com
+0.0.0.0 shepherd.avcdn.net
+0.0.0.0 ipm.avcdn.net
 
 ## CCleaner
 0.0.0.0 license.piriform.com
@@ -41,6 +45,8 @@
 0.0.0.0 control-update.kerio.com
 0.0.0.0 sophos-update.kerio.com
 0.0.0.0 snort-update.kerio.com
+0.0.0.0 kerio-push-gateway-prod.elasticbeanstalk.com
+0.0.0.0 push-gateway.kerio.com
 
 ## Cyberlink
 0.0.0.0 cap.cyberlink.com
