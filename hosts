@@ -1,6 +1,7 @@
 ## updated 17/02/2026
 
 ## LG
+
 0.0.0.0 lgsmartad.com
 0.0.0.0 ja7.info.lgsmartad.com
 
@@ -55,12 +56,12 @@
 ## Cyberlink
 0.0.0.0 cap.cyberlink.com
 0.0.0.0 activation.cyberlink.com
-## Enscape Sketchup
 
+## Enscape Sketchup
 0.0.0.0 api2.enscape3d.com
 0.0.0.0 my.enscape3d.com
-## Lumion Sketchup
 
+## Lumion Sketchup
 0.0.0.0 backup.lumion3d.net
 0.0.0.0 license.lumiontech.net
 
@@ -86,8 +87,8 @@
 0.0.0.0 activation.easeus.com
 0.0.0.0 track.easeus.com
 0.0.0.0 update.easeus.com
-
 ## acronis
+
 0.0.0.0 liveupdate.acronis.com
 0.0.0.0 activation.acronis.com
 0.0.0.0 web-api-tih.acronis.com
@@ -183,7 +184,6 @@
 0.0.0.0 genuine.adobe.com
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 ic.adobe.io
-0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 prod.adobegenuine.com
 0.0.0.0 gocart-web-prod-ue1-alb-1461435473.us-east-1.elb.amazonaws.com
 0.0.0.0 dyzt55url8.adobe.io
@@ -195,7 +195,6 @@
 0.0.0.0 ph0f2h2csf.adobe.io
 0.0.0.0 r3zj0yju1q.adobe.io
 0.0.0.0 9ngulmtgqi.adobe.io
-0.0.0.0 guzg78logz.adobe.io
 0.0.0.0 2ftem87osk.adobe.io
 0.0.0.0 1b9khekel6.adobe.io
 0.0.0.0 3d3wqt96ht.adobe.io
@@ -205,7 +204,6 @@
 0.0.0.0 r5hacgq5w6.adobe.io
 0.0.0.0 gw8gfjbs05.adobe.io
 0.0.0.0 lre1kgz2u4.adobe.io
-0.0.0.0 ij0gdyrfka.adobe.io
 0.0.0.0 8ncdzpmmrg.adobe.io
 0.0.0.0 7sj9n87sls.adobe.io
 0.0.0.0 7m31guub0q.adobe.io
@@ -213,7 +211,6 @@
 0.0.0.0 cd536oo20y.adobe.io
 0.0.0.0 dxyeyf6ecy.adobe.io
 0.0.0.0 jc95y2v12r.adobe.io
-0.0.0.0 1hzopx6nz7.adobe.io
 0.0.0.0 m59b4msyph.adobe.io
 0.0.0.0 69tu0xswvq.adobe.io
 0.0.0.0 vajcbj9qgq.adobe.io
@@ -587,13 +584,11 @@
 0.0.0.0 x12wor9jo6.adobestats.io
 0.0.0.0 xgj8lmrcy6.adobestats.io
 0.0.0.0 6unmig6t9w.adobestats.io
-0.0.0.0 36ai1uk1z7.adobestats.io
 0.0.0.0 8nft9ke95j.adobestats.io
 0.0.0.0 9sg9gr4zf4.adobestats.io
 0.0.0.0 tagtjqcvqg.adobestats.io
 0.0.0.0 ztxgqqizv7.adobestats.io
 0.0.0.0 7mw85h5tv4.adobestats.io
-0.0.0.0 5amul9liob.adobestats.io
 0.0.0.0 cfh5v77fsy.adobestats.io
 0.0.0.0 dobw5hakm0.adobestats.io
 0.0.0.0 08n59yhbxn.adobestats.io
@@ -897,26 +892,19 @@
 0.0.0.0 100.24.211.130
 0.0.0.0 162.247.242.20
 #domain names
-0.0.0.0 ic.adobe.io
-0.0.0.0 b5kbg2ggog.adobe.io
 0.0.0.0 3dns-1.adobe.com
 0.0.0.0 3dns-2.adobe.com
 0.0.0.0 3dns-3.adobe.com
 0.0.0.0 3dns-4.adobe.com
 0.0.0.0 3dns-5.adobe.com
 0.0.0.0 3dns.adobe.com
-0.0.0.0 activate-sea.adobe.com
 0.0.0.0 activate-sea.adobe.de
-0.0.0.0 activate-sjc0.adobe.com
 0.0.0.0 activate-sjc0.adobe.de
-0.0.0.0 activate.adobe.com
 0.0.0.0 activate.adobe.de
 0.0.0.0 activate.wip.adobe.com
 0.0.0.0 activate.wip1.adobe.com
 0.0.0.0 activate.wip2.adobe.com
-0.0.0.0 activate.wip3.adobe.com
 0.0.0.0 activate.wip3.adobe.de
-0.0.0.0 activate.wip4.adobe.com
 0.0.0.0 adobe-dns-1.adobe.com
 0.0.0.0 adobe-dns-2.adobe.com
 0.0.0.0 adobe-dns-2.adobe.de
@@ -929,21 +917,14 @@
 0.0.0.0 adobeereg.com
 0.0.0.0 cmdls.adobe.com
 0.0.0.0 crl.verisign.net
-0.0.0.0 ereg.adobe.com
 0.0.0.0 ereg.adobe.de
 0.0.0.0 ereg.wip.adobe.com
 0.0.0.0 ereg.wip1.adobe.com
 0.0.0.0 ereg.wip2.adobe.com
-0.0.0.0 ereg.wip3.adobe.com
 0.0.0.0 ereg.wip4.adobe.com
-0.0.0.0 genuine.adobe.com
-0.0.0.0 hlrcv.stage.adobe.com
 0.0.0.0 hl2rcv.adobe.com
 0.0.0.0 hl2rcv.adobe.de
 0.0.0.0 ims-na1-prprod.adobelogin.com
-0.0.0.0 lm.licenses.adobe.com
-0.0.0.0 lmlicenses.wip4.adobe.com
-0.0.0.0 na1r.services.adobe.com
 0.0.0.0 na2m-pr.licenses.adobe.com
 0.0.0.0 na2m-stg2.licenses.adobe.com
 0.0.0.0 na4r.services.adobe.com
@@ -951,7 +932,6 @@
 0.0.0.0 ood.opsource.net
 0.0.0.0 practivate.adobe
 0.0.0.0 practivate.adobe.
-0.0.0.0 practivate.adobe.com
 0.0.0.0 practivate.adobe.de
 0.0.0.0 practivate.adobe.ipp
 0.0.0.0 practivate.adobe.newoa
@@ -960,14 +940,9 @@
 0.0.0.0 s-2.adobe.com
 0.0.0.0 s-3.adobe.com
 0.0.0.0 tss-geotrust-crl.thawte.com
-0.0.0.0 uds.licenses.adobe.com
-0.0.0.0 dxyeyf6ecy.adobe.io
-0.0.0.0 1hzopx6nz7.adobe.io
-0.0.0.0 ic.adobe.io
 0.0.0.0 p13n.adobe.io
 0.0.0.0 wip1.adobe.com
 0.0.0.0 wip2.adobe.com
-0.0.0.0 wip3.adobe.com
 0.0.0.0 wip4.adobe.com
 0.0.0.0 wwis-dubc1-vip100.adobe.com
 0.0.0.0 wwis-dubc1-vip101.adobe.com
@@ -1025,7 +1000,6 @@
 0.0.0.0 wwis-dubc1-vip57.adobe.com
 0.0.0.0 wwis-dubc1-vip58.adobe.com
 0.0.0.0 wwis-dubc1-vip59.adobe.com
-0.0.0.0 wwis-dubc1-vip60.adobe.com
 0.0.0.0 wwis-dubc1-vip60.adobe.de
 0.0.0.0 wwis-dubc1-vip61.adobe.com
 0.0.0.0 wwis-dubc1-vip62.adobe.com
@@ -1067,14 +1041,6 @@
 0.0.0.0 wwis-dubc1-vip98.adobe.com
 0.0.0.0 wwis-dubc1-vip99.adobe.com
 0.0.0.0 www.adobeereg.com
-0.0.0.0 cc-api-data.adobe.io
-0.0.0.0 prod.adobegenuine.com
-0.0.0.0 assets.adobedtm.com
-0.0.0.0 4vzokhpsbs.adobe.io
-0.0.0.0 69tu0xswvq.adobe.io
-0.0.0.0 5zgzzv92gn.adobe.io
-0.0.0.0 dyzt55url8.adobe.io
-0.0.0.0 gw8gfjbs05.adobe.io
 0.0.0.0 wip.adobe.com
 0.0.0.0 199.232.114.137
 0.0.0.0 www.wip.adobe.com
@@ -1083,7 +1049,6 @@
 0.0.0.0 www.wip3.adobe.com
 0.0.0.0 www.wip4.adobe.com
 0.0.0.0 workflow-ui-prod.licensingstack.com
-0.0.0.0 1b9khekel6.adobe.io
 0.0.0.0 adobe-dns-01.adobe.com
 0.0.0.0 adobe.demdex.net
 0.0.0.0 adobe.tt.omtrdc.net
@@ -1098,17 +1063,12 @@
 0.0.0.0 cclibraries-defaults-cdn.adobe.com.edgekey.net
 0.0.0.0 cn-assets.adobedtm.com.edgekey.net
 0.0.0.0 crlog-crcn.adobe.com
-0.0.0.0 crs.cr.adobe.com
 0.0.0.0 edgeproxy-irl1.cloud.adobe.io
 0.0.0.0 ethos.ethos02-prod-irl1.ethos.adobe.net
 0.0.0.0 geo2.adobe.com
-0.0.0.0 lcs-cops.adobe.io
-0.0.0.0 lcs-robs.adobe.io
-0.0.0.0 pv2bqhsp36w.prod.cloud.adobe.io
 0.0.0.0 services.prod.ims.adobejanus.com
 0.0.0.0 ssl-delivery.adobe.com.edgekey.net
 0.0.0.0 sstats.adobe.com
 0.0.0.0 stls.adobe.com-cn.edgesuite.net
 0.0.0.0 stls.adobe.com-cn.edgesuite.net.globalredir.akadns.net
 0.0.0.0 use-stls.adobe.com.edgesuite.net
-0.0.0.0 9ngulmtgqi.adobe.io
