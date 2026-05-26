@@ -49,8 +49,8 @@
 0.0.0.0 control-update.kerio.com
 0.0.0.0 sophos-update.kerio.com
 0.0.0.0 snort-update.kerio.com
-0.0.0.0 kerio-push-gateway-prod.elasticbeanstalk.com
-0.0.0.0 push-gateway.kerio.com
+## 0.0.0.0 kerio-push-gateway-prod.elasticbeanstalk.com
+## 0.0.0.0 push-gateway.kerio.com
 
 ## Cyberlink
 0.0.0.0 cap.cyberlink.com
