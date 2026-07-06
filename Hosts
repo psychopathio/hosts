@@ -1,4 +1,15 @@
-## updated 20/06/2026
+## updated 06/07/2026
+
+## Unclassified
+0.0.0.0 datarouter.ol.epicgames.com
+0.0.0.0 qcc.qualcomm.com
+0.0.0.0 netgate.com
+0.0.0.0 matrix.jenovarain.com
+0.0.0.0 us.ynuf.aliapp.org
+0.0.0.0 mcc.intl.inf.miui.com
+0.0.0.0 push-gateway.kerio.com
+0.0.0.0 kerio-push-gateway-prod.elasticbeanstalk.com
+
 
 ## LG
 0.0.0.0 lgsmartad.com
